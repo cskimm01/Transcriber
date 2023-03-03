@@ -23,3 +23,9 @@ A very flexible drum machine/metronome.
 And a small synth for tuning by ear or pitch finding.
 
 <img width="316" alt="Screenshot 2023-02-24 at 12 24 07 PM" src="https://user-images.githubusercontent.com/91866163/222673885-8ac11305-19b9-4860-bd46-73a0176b74fb.png">
+
+Requieres third party audio routing software.  It is currently configured to work best with BlackHole 16ch, which can be downloaded here:
+
+https://existential.audio/blackhole/
+
+Thanks to Devin Roth for letting me use his software!
