@@ -28,4 +28,4 @@ Requieres third party audio routing software.  It is currently configured to wor
 
 https://existential.audio/blackhole/
 
-Thanks to Devin Roth for letting me use his software!
+Thanks to Devin Roth for letting me publicly use BlackHole!
